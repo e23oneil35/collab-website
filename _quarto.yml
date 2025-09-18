@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - addtional_links.qmd
+      - href: Contact.qmd
+        text: Contact
         
 format:
   html:

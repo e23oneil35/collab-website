@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Collab Website for Assignment 3",
-    "section": "",
-    "text": "This is my personal Website for Assignment 3.\nHere are some pictures of bees"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This site will eventually become my personal professional website."
   },
   {
     "objectID": "addtional_links.html",
@@ -26,5 +19,12 @@
     "title": "Addtional Links",
     "section": "",
     "text": "add links here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Collab Website for Assignment 3",
+    "section": "",
+    "text": "This is my personal Website for Assignment 3.\nHere are some pictures of bees"
   }
 ]
