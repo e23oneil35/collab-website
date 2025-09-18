@@ -1,0 +1,12 @@
+---
+title: "Addtional Links"
+editor: visual
+---
+
+# Resources:
+
+## CV
+
+## List of Publications:
+
+-   add links here

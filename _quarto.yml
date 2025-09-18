@@ -3,13 +3,14 @@ project:
   output-dir: docs
   
 website:
-  title: "collab-website_ONEIL"
+  title: "Emily O'Neil's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - resources.qmd
+        
 format:
   html:
     theme:
@@ -17,6 +18,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
+
 
 
 
