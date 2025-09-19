@@ -2,7 +2,25 @@
 title: "Collab Website for Assignment 3"
 ---
 
-This is my personal Website for Assignment 3.
+Name: Emily O'Neil
+
+GitHub username: e23oneil35
+
+GitHub repo for this course: <https://github.com/therkildsen-class/ntres-6100-assignments-e23oneil35>
+
+GitHub repro for the Website assignment 3: <https://github.com/e23oneil35/website_assignment_3_emo82>
+
+Collaborators:
+
+-   Lindsey(Xiaotong) Fei (xf242)
+
+    -   GitHub Username: LindOreoFrk
+
+-   Robert Gritton (rpg79)
+
+    -   GitHub username: PatrickGritton
+
+This my personal Website for Assignment 3.
 
 Here are some pictures of bees
 
