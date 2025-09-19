@@ -4,6 +4,4 @@ title: "About"
 
 This site will eventually become my personal professional website.
 
-I am a grad student in the MPS Natural Resource Program.
-I also worl at the Dyce Lab for Honey Bee Studies.
-
+I am a grad student in the MPS Natural Resource Program. I also work at the Dyce Lab for Honey Bee Studies.
